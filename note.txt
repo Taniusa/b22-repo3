@@ -1,0 +1,5 @@
+We just published our local git repo
+to remote GitHub.com reposstory
+Few thing happened:
+1. It automatically created new remote repo
+under your account
